@@ -220,7 +220,7 @@ letter-spacing: 10px;
 /* ---------------------------HOME PAGE---------------------------*/
 .banner{
   position: relative;
-  width: 100%;
+  width: 90%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -231,7 +231,7 @@ letter-spacing: 10px;
 .better{
   font-size: 55px;
   color: rgb(48, 48, 48);
-  margin-left: 140px;
+  margin-left: 180px;
   line-height: 80px;
 }
 .home-par{
@@ -243,7 +243,7 @@ letter-spacing: 10px;
 }
 .girls-div {
   margin-top: 90px;
-  margin-right: 20px;
+  margin-right: 50px;
 }
 
 .shop{
