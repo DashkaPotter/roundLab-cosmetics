@@ -262,19 +262,27 @@ letter-spacing: 10px;
   
 }
 
+
 .about{
-  display: grid;
+  position: relative;
+  width: 100%;
+  display: flex;
   align-items: center;
-  grid-template-columns: 1fr 1fr;
-  margin-top: 10px;
+  justify-content: center;
+  margin-top: 110px;
+  margin-bottom: 110px;
 }
 .circles{
   max-width: 100%;
   max-height: 100%;
-  margin-left: 70px;
-  margin-top: 120px;
+  margin-left: 50px;
+  margin-top: 120px; 
+}
+.circle-girl{
+  width: 490px;
 }
 .div-about-par{
+  width: 580px;
   margin-right: 50px;
   margin-top: 150px;
   padding: 0px 20px;
@@ -282,9 +290,8 @@ letter-spacing: 10px;
 }
 .about-par {
   font-size: 19px;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   margin-left: 10px;
-  
 }
 
 .why{
