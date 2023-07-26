@@ -1060,18 +1060,19 @@ letter-spacing: 10px;
     display: flex;
     justify-content: center;
     position: relative;
+    margin-top:25px;
   }
   .girls{
-    width: 190px;
+    width: 200px;
     margin-left: 10px;
   }
   .home-par{
-    font-size: 14px;
+    font-size: 15px;
     margin-right: 50px;
   }
   .shopNow{
-    font-size: 12px;
-    padding: 4px 18px;
+    font-size: 14px;
+    padding: 8px 18px;
   }
   .shopNow:hover{
     background-color: none;
