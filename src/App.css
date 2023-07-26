@@ -356,8 +356,8 @@ letter-spacing: 10px;
 .prev,
 .next {
   position: absolute;
-  bottom: 250px;
-  margin: 70px -60px;
+   bottom: 260px;
+  margin: 70px -20px;
   display: flex;
   background: transparent;
   color: black;
