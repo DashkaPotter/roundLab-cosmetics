@@ -1261,7 +1261,7 @@ align-items: center;
   text-align: center;
 }
 .wrapper-text{
-  font-size: 13px;
+  font-size: 11px;
   padding: 15px 20px;
   letter-spacing: 2px;
   color: #464545;
@@ -1278,6 +1278,9 @@ align-items: center;
   display: flex;
   flex-direction: column;
 }
+  .why-text{
+    font-size:20px;
+  }
 /*.ipad-wrapper{
   display: flex;
   flex-direction: column;
