@@ -308,10 +308,11 @@ letter-spacing: 10px;
   align-items: center;
   justify-content:center;
   grid-template-columns: repeat(3, 1fr);
-  padding: 20px 80px ;
+  /*padding: 20px 80px ;
   margin-top: 10px;
   margin-left: 30px;
-  margin-right: 30px;
+  margin-right: 30px;*/
+  padding:0px 20px
 }
 .wrapper-card{
   height: 320px;
