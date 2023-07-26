@@ -1051,10 +1051,10 @@ letter-spacing: 10px;
     display: flex;
     justify-content: flex-start;
   }
-  .better{
-    font-size: 20px;
+    .better{
+    font-size: 18px;
     line-height: 20px;
-    margin-right: 20px;
+    margin-right: 13px;
   }
   .banner{
     display: flex;
@@ -1062,13 +1062,12 @@ letter-spacing: 10px;
     position: relative;
   }
   .girls{
-    width: 240px;
-    margin-left: 20px;
+    width: 190px;
+    margin-left: 10px;
   }
   .home-par{
     font-size: 14px;
     margin-right: 50px;
-    width: 80%;
   }
   .shopNow{
     font-size: 12px;
