@@ -235,7 +235,7 @@ letter-spacing: 10px;
   line-height: 80px;
 }
 .home-par{
-  margin-left: 190px;
+  margin-left: 200px;
   font-size: 20px;
   color: rgb(48, 48, 48);
   margin-top: 20px;
@@ -271,7 +271,7 @@ letter-spacing: 10px;
 .circles{
   max-width: 100%;
   max-height: 100%;
-  margin-left: 50px;
+  margin-left: 70px;
   margin-top: 120px;
 }
 .div-about-par{
@@ -834,7 +834,7 @@ letter-spacing: 10px;
   }
   .shopNow{
     border: none;
-    padding: 10px 50px;
+    padding: 15px 50px;
     font-size: 15px;
     font-weight: 600;
   }
@@ -845,7 +845,7 @@ letter-spacing: 10px;
   margin-top: 30px;
   }
   .circle-girl{
-    width: 200px;
+    width: 180px;
   }
 
   .div-about-par{
@@ -870,12 +870,13 @@ letter-spacing: 10px;
     padding: 0px 200px;
     margin-top: 10px;
     max-width: 100%;
+    margin-right:10px;
+    margin-left:10px;
     
   }
   .wrapper-card{
     height: 320px;
-    width: 380px;
-    margin-left: 10px;
+    width: 300px;
     display: grid;
     align-items: center;
     text-align: center;
@@ -883,7 +884,7 @@ letter-spacing: 10px;
   .wrapper-text{
     font-size: 15px;
   padding: 26px 20px;
-  letter-spacing: 3px;
+  letter-spacing: 0px;
   }
   .wrapper-title{
     margin: 0px 10px;
