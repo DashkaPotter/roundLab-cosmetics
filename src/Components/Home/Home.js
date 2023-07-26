@@ -60,7 +60,7 @@ const Home =() => {
 
             <div className='about'>
             <div className='circles'>
-                <img className='circle-girl' src={buble} alt="circles" width="550px"/>
+                <img className='circle-girl' src={buble} alt="circles" width="500px"/>
             </div>
             
             <div className='div-about-par'>
