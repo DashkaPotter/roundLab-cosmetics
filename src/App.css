@@ -1052,9 +1052,10 @@ letter-spacing: 10px;
     justify-content: flex-start;
   }
     .better{
-    font-size: 18px;
+    /*font-size: 18px;
     line-height: 20px;
-    margin-right: 12px;
+    margin-right: 12px;*/
+      display:none;
   }
   .banner{
     display: flex;
