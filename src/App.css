@@ -124,7 +124,6 @@ body{
   align-items: center;
   text-align: center;
   margin-top: 100px;
-  gap: 1.2rem;
   margin: 100px;
 }
 .product-wrap{
@@ -135,7 +134,7 @@ body{
 .menuCategory{
   display: flex;
   justify-content: space-around;
-  padding: 10px 40px;
+  padding: 10px 200px;
 }
 .love{
   display: flex;
@@ -1123,15 +1122,15 @@ letter-spacing: 10px;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
-    gap:0px;
     margin-top: 100px;
-    margin: 2.5px 15px;
+    margin: 20px;
   }
   .card{
     width: 170px;
     height: 330px;
     padding: 20px;
-    margin-right: 10px;
+    /*margin-right: 10px;*/
+    margin:20px;
   }
   .addCart{
     border: none;
@@ -1164,8 +1163,8 @@ letter-spacing: 10px;
 
 .menuCategory{
   display: flex;
-  padding: 5px 8px;
-  font-size:12px
+  padding: 5px 10px;
+  font-size:11px
 }
 .love{
   margin: 15px;
