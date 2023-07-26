@@ -303,20 +303,17 @@ letter-spacing: 10px;
   text-shadow: 0px -2px 2px #fff;
 }
 .wrapper{
-  width:100%
-  display: grid;
+  position: relative;
+  width: 100%;
+  display: flex;
   align-items: center;
-  justify-content:center;
-  grid-template-columns: repeat(3, 1fr);
-  /*padding: 20px 80px ;
-  margin-top: 10px;
-  margin-left: 30px;
-  margin-right: 30px;*/
-  margin: 0 auto;
+  justify-content: center;
+  margin-top: 60px;
 }
 .wrapper-card{
+  margin: 20px;
   height: 320px;
-  width: 360px;
+  width: 380px;
   box-shadow: 5px 8px 20px rgb(0, 0, 0,0.1);
   border-radius: 18px;
   position: relative;
