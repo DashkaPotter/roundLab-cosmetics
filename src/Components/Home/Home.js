@@ -60,7 +60,7 @@ const Home =() => {
 
             <div className='about'>
             <div className='circles'>
-                <img className='circle-girl' src={buble} alt="circles" width="500px"/>
+                <img className='circle-girl' src={buble} alt="circles" width="470px"/>
             </div>
             
             <div className='div-about-par'>
@@ -135,7 +135,7 @@ const Home =() => {
                     <div className='girl-slider'>
                     
                     <div className="slider ">
-                <img className='beauty-product' src={img} alt="beauty-product" width="500px" height="500px"/>
+                <img className='beauty-product' src={img} alt="beauty-product" width="400px" height="400px"/>
                 <div className='prev'>
                 <BsChevronCompactLeft  onClick={prevSlide} size={34}/>
             </div>
@@ -148,7 +148,7 @@ const Home =() => {
             
                 </div>
                 <div className='circle-girl'>
-                        <img className='girl-buble' src={circle} alt="firstgirl" width='550px'/>
+                        <img className='girl-buble' src={circle} alt="firstgirl" width='490px'/>
                     </div>
                         
                     </div>
