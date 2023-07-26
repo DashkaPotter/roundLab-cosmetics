@@ -1165,6 +1165,7 @@ letter-spacing: 10px;
 .menuCategory{
   display: flex;
   padding: 5px 8px;
+  font-size:12px
 }
 .love{
   margin: 15px;
@@ -1174,18 +1175,18 @@ letter-spacing: 10px;
 letter-spacing: 2px;
 }
 .categoryButtonSelected {
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 600;
 }
 .categoryButton{
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 600;
 }
 .categoryButton:hover {
-  font-size: 15px;
+  font-size: 12px;
 }
 .categoryButtonSelected,.categoryButton{
-  font-size: 15px;
+  font-size: 12px;
   padding: 9px 15px;
 }
 
