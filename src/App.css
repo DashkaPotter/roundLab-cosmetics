@@ -1038,6 +1038,7 @@ letter-spacing: 10px;
 }
 
 @media all and (max-width: 500px){
+ 
   .nav-container {
     display: none;
   }
@@ -1051,7 +1052,7 @@ letter-spacing: 10px;
     justify-content: flex-start;
   }
   .better{
-    font-size: 17px;
+    font-size: 20px;
     line-height: 20px;
     margin-right: 20px;
   }
@@ -1061,8 +1062,8 @@ letter-spacing: 10px;
     position: relative;
   }
   .girls{
-    width: 190px;
-    margin-left: 10px;
+    width: 240px;
+    margin-left: 20px;
   }
   .home-par{
     font-size: 14px;
@@ -1077,18 +1078,32 @@ letter-spacing: 10px;
     background-color: none;
   }
   .about{
-    margin-top: -20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .circles{
+    margin-left: 50px;
+    margin-top: 120px; 
   }
   .div-about-par{
-    margin-top: 40px;
+    width: 320px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+    padding: 0px 20px;
+    border-left: solid 7px #72AAFF;
   }
   .about-par {
-    font-size: 12px;
-    letter-spacing: 2px;
-    width: 300px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-left: 10px;
   }
-  .sbout-mini-par{
-    font-size: 17px;
+  .about-mini-par{
+    font-size: 16px;
   }
   .circles{
     margin-top: 100px;
@@ -1099,6 +1114,9 @@ letter-spacing: 10px;
   .product-wrap{
     display: flex;
     justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
   }
   .product{
     display: grid;
@@ -1230,35 +1248,38 @@ align-items: center;
 .wrapper{
   display: flex;
   flex-direction: column;
-  margin-top: 10px;
-  
+  margin-top: 30px;
 }
+
 .wrapper-card{
   margin-top: 20px;
-  height: 320px;
-  width: 360px;
+  height: 310px;
+  width: 300px;
   display: grid;
   align-items: center;
   text-align: center;
 }
 .wrapper-text{
-  font-size: 14px;
-padding: 26px 20px;
-letter-spacing: 3px;
-}
-.wrapper-title{
-  margin: 0px 10px;
-  font-size: 25px;
+  font-size: 13px;
   padding: 15px 20px;
+  letter-spacing: 2px;
+  color: #464545;
+  font-weight: bold;
+}
+
+.wrapper-title{
+  margin: 0px 7px;
+  font-size: 16px;
+  padding: 12px 18px;
   border-radius: 40px;
 }
 .slider-wrap{
   display: flex;
   flex-direction: column;
 }
-.ipad-wrapper{
+/*.ipad-wrapper{
   display: flex;
   flex-direction: column;
   align-items: center;
-}
+}*/
 }
