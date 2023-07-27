@@ -46,7 +46,7 @@ function App() {
     <div className="overlay" onClick={closeMenu}>
       <div className="menu">
         <button className="close-button" onClick={closeMenu}>&times;</button>
-        <nav>
+        <nav className="nav">
           <Link className='link' onClick={closeMenu} to="/"> Home</Link>
           <Link className='link' onClick={closeMenu} to="products"> Products</Link>
           <Link className='link' onClick={closeMenu} to="/cart">Cart</Link>
