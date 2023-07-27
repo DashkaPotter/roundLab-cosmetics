@@ -1127,7 +1127,7 @@ letter-spacing: 10px;
   }
   .card{
     width: 150px;
-    height: 330px;
+    height: 310px;
     padding: 20px;
     /*margin-right: 10px;*/
     margin-left:20px;
@@ -1135,6 +1135,7 @@ letter-spacing: 10px;
   }
   .addCart{
     border: none;
+    margin-top:7px;
     padding: 8px 16px;
     font-size: 12px;
   }
@@ -1157,13 +1158,13 @@ letter-spacing: 10px;
 }
 .plus,.minus{
   padding: 0px 7px;
-  margin: -2px 13px;
+  margin: -2px 10px;
   border: none;
-  font-size: 13px;
+  font-size: 15px;
 }
 .quantity{
   padding: 5px;
-  font-size: 11px;
+  font-size: 15px;
 }
 
 .menuCategory{
