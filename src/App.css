@@ -85,7 +85,7 @@ body{
   right: 0;
   display: flex;
   flex-direction: column;
-  width: 240px;
+  width: 200px;
   height: 100%;
   background: #72AAFF;
   padding-top: 120px;
@@ -114,6 +114,11 @@ body{
   letter-spacing: 1px;
   margin-bottom: 30px;
   padding: 35px 10px;
+}
+.nav{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* -----------------------products page------------------------- */
