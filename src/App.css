@@ -1161,6 +1161,10 @@ letter-spacing: 10px;
   border: none;
   font-size: 13px;
 }
+.quantity{
+  padding: 5px;
+  font-size: 11px;
+}
 
 .menuCategory{
   display: flex;
