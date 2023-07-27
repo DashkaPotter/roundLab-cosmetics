@@ -1140,17 +1140,17 @@ letter-spacing: 10px;
   }
 
   .img-product{
-    width: 130px;
+    width: 120px;
   }
   
 .name{
-  padding: 5px 9px;
+  padding: 4px 7px;
 }
 .product-name{
-  font-size: 12px;
+  font-size: 11px;
 }
 .beautyProduct{
-  font-size: 12px;
+  font-size: 11px;
 }
 .price-style{
   font-size: 12px;
@@ -1159,7 +1159,7 @@ letter-spacing: 10px;
   padding: 0px 7px;
   margin: -2px 13px;
   border: none;
-  font-size: 16px;
+  font-size: 13px;
 }
 
 .menuCategory{
